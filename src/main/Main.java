@@ -13,5 +13,6 @@ public class Main {
         else
             System.out.println("Das Passwort ist falsch!");
 
+        PasswortKontrolle pc2 = new PasswortKontrolle();
     }
 }
